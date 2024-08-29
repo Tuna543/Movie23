@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  Movie23
+
+  Created by BS00880 on 10/7/24.
+  
+*/
+"settings" = "বিন্যাস";
+"language" = "ভাষা";
+"theme" = "থিম";
+"darkTheme" = "ডার্ক থিম";
+"eng" = "ইংরেজি";
+"ban" = "বাংলা";
+"home" = "হোম";
+"addToWatchlist" = "ওয়াচলিস্টে যোগ করুন";
+"dropFromWatchlist" = "ওয়াচলিস্ট থেকে সরান";
+"welcomeBack" = "স্বাগতম!";
+"userName" = "ইউজার নাম";
+"topMoviePicks" = "শীর্ষ মুভি";
+"upcomingMovies" = "আসন্ন মুভি";
+"seeAll" = "সবগুলো দেখুন";
+"search" = "খুঁজুন";
+"sortAndFilter" = "বাছাই এবং ফিল্টার";
+"sortBy" = "বাছাই";
+"genres" = "ধরন";
+"orderBy" = "ক্রম";
+"apply" = "প্রয়োগ";
+"watchList" = "ওয়াচ লিস্ট";
+"movieDetails" = "মুভি বিস্তারিত";
+"pleaseSignInToYourAccount" = "আপনার অ্যাকাউন্টে সাইন করুন";
+"email" = "ই-মেইল";
+"password" = "পাসওয়ার্ড";
+"forgotPassword" = "পাসওয়ার্ড ভুলে গেছেন?";
+"dontHaveAnAccount" = "Don't have an account?";
+"signIn" = "সাইন ইন";
+"signUp" = "সাইন আপ";
+"welcome" = "স্বাগতম!";
+"createNewAccount" = "নতুন অ্যাকাউন্ট তৈরি করুন";
+"confirmPassword" = "কনফার্ম পাসওয়ার্ড";
+"signInWithGoogle" = "গুগল দিয়ে সাইন ইন করুন";
+"general" = "সাধারণ";
+"accountSettings" = "অ্যাকাউন্ট সেটিংস";
+"signOut" = "সাইন আউট";
+"deleteAccount" = "ডিলিট অ্যাকাউন্ট";
+"itemAlreadyExitsInYourWatchList" = "ইতিমধ্যে এই মুভিটি আপনার ওয়াচ লিস্টে আছে";
+"itemAddedToYourWatchList" = "মুভিটি আপনার ওয়াচ লিস্টে যোগ করা হয়েছে";
+"alert" = "অ্যালার্ট";
+"oK" = "ঠিক আছে";
+"overallRating" = "সকল রেটিং";
+"yourRating" = "আপনার রেটিং";

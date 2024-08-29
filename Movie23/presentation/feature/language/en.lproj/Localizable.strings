@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  Movie23
+
+  Created by BS00880 on 10/7/24.
+  
+*/
+"settings" = "Settings";
+"language" = "Language";
+"theme" = "Theme";
+"darkTheme" = "Theme";
+"eng" = "English";
+"ban" = "Bangla";
+"home" = "Home";
+"addToWatchlist" = "Add to WatchList";
+"dropFromWatchlist" = "Drop from Watchlist";
+"welcomeBack" = "Welcome Back!";
+"userName" = "User Name";
+"topMoviePicks" = "Top Movie Picks";
+"upcomingMovies" = "Upcoming Movies";
+"seeAll" = "See all";
+"search" = "Search";
+"sortAndFilter" = "Sort and Filter";
+"sortBy" = "Sort by";
+"genres" = "Genres";
+"orderBy" = "Order By";
+"apply" = "Apply";
+"watchList" = "Watch List";
+"movieDetails" = "Movie Details";
+"pleaseSignInToYourAccount" = "Please sign in to your account";
+"email" = "Email";
+"password" = "Password";
+"forgotPassword" = "Forgot Password";
+"dontHaveAnAccount" = "Don't have an account?";
+"signIn" = "Sign In";
+"signUp" = "Sign Up";
+"welcome" = "Welcome";
+"createNewAccount" = "Create new account";
+"confirmPassword" = "Confirm Password";
+"signInWithGoogle" = "Sign In With Google";
+"general" = "General";
+"accountSettings" = "Account Settings";
+"signOut" = "Sign Out";
+"deleteAccount" = "Delete Account";
+"itemAlreadyExitsInYourWatchList" = "Item already exits in your watch list";
+"itemAddedToYourWatchList" = "Item added to your watch list";
+"alert" = "Alert";
+"oK" = "OK";
+"overallRating" = "Overall Rating";
+"yourRating" = "Your Rating";
